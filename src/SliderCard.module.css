@@ -1,0 +1,57 @@
+
+
+.sliderCard{
+    padding: 1rem;
+}
+
+.sliderCard_box{
+    transition: all .3s ease-in;
+    border-radius: 2rem;
+    padding-bottom: 1rem;
+}
+
+
+.sliderCard_box_img_img{
+    border-radius: 2rem;
+}
+
+.sliderCard_box_title{
+    position: absolute;
+    width: 181px;
+    text-align: left;
+    
+}
+
+.sliderCard_box_title p{
+    font-size:14px;
+    font-weight: 100;
+}
+
+.sliderCard_box_title_like{
+    display: flex;
+    align-items: center;
+    
+}
+
+.sliderCard_box_image{
+    display: flex;
+    justify-content: space-between;
+    width: 234px;
+    height: 272px;
+    background-image: url(./images/p1.jpeg);
+    background-size: 234px 272px;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+
+
+.sliderCard_box_price_time{
+    align-items: flex-end;
+    display: grid;
+}
+
+
+
+
